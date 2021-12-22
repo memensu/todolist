@@ -1,0 +1,31 @@
+body {
+  font-family: 'Poppins', sans-serif; 
+}
+
+#title {
+  font-size: 45px;
+  text-align: center;
+  margin-top: 30px;
+  color: forestgreen;
+}
+
+#description {
+  font-size: 23;
+  text-align: center;
+}
+
+#inputbox {
+  margin: 50px 0px 10px 125px;
+  text-align: center;
+  
+}
+
+#chorebutton {
+  padding: 7px;
+  text-align: center;
+  margin-left: 270px;
+}
+
+.inline {
+  display: inline;
+}
